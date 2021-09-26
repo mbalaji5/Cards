@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should Validate EligibilityApplication Component Should validate eligibilityResult With Valid C1 and C2 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-jSgvzq ekxYJa"
+    >
+      <h1
+        class="sc-eCstlR jAIppu"
+      >
+        Cards
+      </h1>
+      <form>
+        <div
+          class="sc-bdfBQB LQheS"
+        >
+          <input
+            class="sc-gsTEea fptcsq"
+            data-testid="name"
+            id="name"
+            name="name"
+            placeholder="Name"
+            type="text"
+            value=""
+          />
+        </div>
+        <div
+          class="sc-bdfBQB LQheS"
+        >
+          <input
+            class="sc-gsTEea fptcsq"
+            data-testid="email"
+            id="email"
+            name="email"
+            placeholder="Email"
+            type="email"
+            value=""
+          />
+        </div>
+        <div
+          class="sc-bdfBQB LQheS"
+        >
+          <input
+            class="sc-gsTEea fptcsq"
+            data-testid="address"
+            id="address"
+            name="address"
+            placeholder="Address"
+            type="text"
+            value=""
+          />
+        </div>
+        <div
+          class="sc-dlfnuX jARWZH"
+        >
+          <button
+            class="sc-hKgJUU TlIWR"
+            data-testid="submit"
+            id="submit"
+            type="submit"
+          >
+            Submit
+          </button>
+        </div>
+      </form>
+      
+    </div>
+  </div>
+</body>
+`;

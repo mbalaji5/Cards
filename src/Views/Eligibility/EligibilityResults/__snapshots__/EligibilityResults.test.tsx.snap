@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should Validate EligibilityResults Component Should validate eligibilityResult With Valid C1 and C2 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-bdfBQB eAvOvM"
+    >
+      <label>
+        Congratulations you are eligible for C1 and C2 credit card product.
+      </label>
+      
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should Validate EligibilityResults Component Should validate eligibilityResult With Valid C1 only 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-bdfBQB eAvOvM"
+    >
+      <label>
+        Congratulations you are eligible for C1 credit card product.
+      </label>
+      
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should Validate EligibilityResults Component Should validate eligibilityResult With Valid C2 only 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-bdfBQB eAvOvM"
+    >
+      <label>
+        Congratulations you are eligible for C2 credit card product.
+      </label>
+      
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should Validate EligibilityResults Component Should validate eligibilityResult With in Valid C1 and C2 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-bdfBQB eAvOvM"
+    >
+      <label>
+        Sorry! You are not eligible for neither C1 nor C2.
+      </label>
+      
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should Validate EligibilityResults Component Should validate error response from downstream 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-bdfBQB eAvOvM"
+    >
+      
+      <label
+        id="error"
+      >
+        Sorry! Currently we are unable to precess your request.
+      </label>
+    </div>
+  </div>
+</body>
+`;

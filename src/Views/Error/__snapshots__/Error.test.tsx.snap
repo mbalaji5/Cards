@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should Validate Error Component should match snopshot 1`] = `
+<body>
+  <div>
+    <label
+      id="error"
+    >
+      error
+    </label>
+  </div>
+</body>
+`;
+
+exports[`Should Validate Error Component should match snopshot 2`] = `
+<body>
+  <div>
+    <label
+      id="error"
+    >
+      Sorry you are not eligible for neither C1 nor C2.
+    </label>
+  </div>
+</body>
+`;

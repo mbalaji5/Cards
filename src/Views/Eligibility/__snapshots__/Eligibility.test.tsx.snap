@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should validate Eligibility Should validate snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-bdfBQB iUjGQe"
+    >
+      <div
+        class="sc-gKseQn gTIxDg"
+      >
+        <h1
+          class="sc-jSgvzq dfkKDO"
+        >
+          Cards
+        </h1>
+        <form>
+          <div
+            class="sc-gsTEea eywXce"
+          >
+            <input
+              class="sc-dlfnuX izfRXW"
+              data-testid="name"
+              id="name"
+              name="name"
+              placeholder="Name"
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            class="sc-gsTEea eywXce"
+          >
+            <input
+              class="sc-dlfnuX izfRXW"
+              data-testid="email"
+              id="email"
+              name="email"
+              placeholder="Email"
+              type="email"
+              value=""
+            />
+          </div>
+          <div
+            class="sc-gsTEea eywXce"
+          >
+            <input
+              class="sc-dlfnuX izfRXW"
+              data-testid="address"
+              id="address"
+              name="address"
+              placeholder="Address"
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            class="sc-hKgJUU eXewpY"
+          >
+            <button
+              class="sc-eCstlR bWdOQs"
+              data-testid="submit"
+              id="submit"
+              type="submit"
+            >
+              Submit
+            </button>
+          </div>
+        </form>
+        
+      </div>
+      <div
+        class="sc-iBPTik fORSaw"
+      >
+        
+        
+      </div>
+    </div>
+  </div>
+</body>
+`;

@@ -1,0 +1,9 @@
+{
+  "eligibilityCheck": {
+    "eligibility": {
+      "C1": { "isEligible": false },
+      "C2": { "isEligible": true }
+    },
+    "cardType": ["C1", "C2"]
+  }
+}
